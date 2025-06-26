@@ -1,4 +1,4 @@
-CODIGO ES Codigo.py
+El Codigo esta arriba se llama "Codigo de la Evaluacion.py"
 
 # Evaluacion Parcial 4 - Concierto Movimiento Origen 
 
